@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<h3><b>Morse Code</b></h3>
+<h3><b>Enumerable</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -26,9 +26,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 Morse Code <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-Morse Code is a CLI app write with ruby.
+Enumerable is a CLI app write with ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,7 +52,9 @@ Morse Code is a CLI app write with ruby.
 
 
 
-- **Decode morse code**
+- **all? method**
+- **any? method**
+- **filter method**
 
 
 
@@ -129,7 +131,7 @@ ruby main.rb
 
 
 
-- [ ] **Encode morse code**
+- [ ] **Add more features**
 
 
 
